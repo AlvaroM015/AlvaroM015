@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlvaroM015
+- 👋 Hi, I’m Álvaro
 - 👀 I’m interested in Web Devlopment and IOS Devlopment
 - 🌱 I’m currently learning Node.JS and Typescript
 - 💞️ I’m looking to collaborate on Websites and Softwares
